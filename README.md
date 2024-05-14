@@ -1,8 +1,64 @@
-# React + Vite
+# 7Teen
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Massive Challenge Project Group | Celerates Acceleration Program - Web Development & UI/UX Design**
 
-Currently, two official plugins are available:
+## Team Members (7Teen)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<table border="1" cellpadding="10" style="text-align:center;">
+    <tr>
+        <th>Izzul Fathul Huda</th>
+        <th>Hizkia Jefren Reppi</th>
+        <th>Bintang Mahaputra Ramadhan</th>
+        <th>Grace Natalia Zalukhu</th>
+        <th>Citra Dewi Puspita Sari</th>
+        <th>Nasywa Zafirah Syahrani</th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://avatars.githubusercontent.com/izzulfath" width="100" height="100" style="border-radius:50%" />
+        </td>
+        <td>
+            <img src="https://avatars.githubusercontent.com/hizkiareppi" width="100" height="100" style="border-radius:50%" />
+        </td>
+        <td>
+            <img src="https://avatars.githubusercontent.com/bintanggmr" width="100" height="100" style="border-radius:50%" />
+        </td>
+        <td>
+            <img src="https://avatars.githubusercontent.com/Gracenzl" width="100" height="100" style="border-radius:50%" />
+        </td>
+        <td>
+            <img src="https://avatars.githubusercontent.com/citrasyya" width="100" height="100" style="border-radius:50%" />
+        </td>
+        <td>
+            <img src="https://avatars.githubusercontent.com/nasywazfh" width="100" height="100" style="border-radius:50%" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/izzulfath">Izzul Fathul Huda</a>
+        </td>
+        <td>
+            <a href="https://github.com/hizkiareppi">Hizkia Jefren Reppi</a>
+        </td>
+        <td>
+            <a href="https://github.com/bintanggmr">Bintang Mahaputra Ramadhan</a>
+        </td>
+        <td>
+            <a href="https://github.com/Gracenzl">Grace Natalia Zalukhu</a>
+        </td>
+        <td>
+            <a href="https://github.com/citrasyya">Citra Dewi Puspita Sari</a>
+        </td>
+        <td>
+            <a href="https://github.com/nasywazfh">Nasywa Zafirah Syahrani</a>
+        </td>
+    </tr>
+    <tr>
+        <td>Project Manager</td>
+        <td>Fullstack Web Developer</td>
+        <td>Frontend Web Developer</td>
+        <td>Frontend Web Developer</td>
+        <td>UI/UX Designer</td>
+        <td>UI/UX Designer</td>
+    </tr>
+</table>
